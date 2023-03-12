@@ -1,3 +1,3 @@
 # mongodb-rs-with-auth
 
-Please follow the instructions from medium blog -> https://medium.com/@prashix/setup-mongodb-replicaset-with-authentication-enabled-using-docker-compose-5edd2ad46a90
+Please follow the instructions from notion -> https://skitter-sassafras-ecf.notion.site/Transaction-233bbbf0fa17491cbd7c8879376101ae

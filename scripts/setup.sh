@@ -34,7 +34,7 @@ mongosh <<EOF
    admin.createUser(
      {
 	user: "admin",
-        pwd: "password",
+        pwd: "verrysecretadmin",
         roles: [ { role: "root", db: "admin" } ]
      });
      db.getSiblingDB("admin").auth("admin", "password");
